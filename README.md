@@ -1,6 +1,7 @@
 ![MasterHead](https://www.vertiv.com/4a82d3/globalassets/images/main-images/1600x480/1600x480-39024-datacenter_bluelights_244304_0.jpg)
 <h1 align="center">Hi 👋, I'm Rachit Sherawat</h1>
 <h3 align="center">Cloud Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitsherawat&label=Profile%20views&color=0e75b6&style=flat" alt="rachitsherawat" /> </p>
 
