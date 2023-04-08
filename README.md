@@ -1,4 +1,4 @@
-![MasterHead]([https://www.opsview.com/sites/default/files/banner-img/Banner-Img-AWS-2.jpeg](https://wallpapers.com/images/hd/dark-blue-data-center-775ta0o0wf4nbyq3.jpg)
+![MasterHead](https://www.vertiv.com/4a82d3/globalassets/images/main-images/1600x480/1600x480-39024-datacenter_bluelights_244304_0.jpg)
 <h1 align="center">Hi 👋, I'm Rachit Sherawat</h1>
 <h3 align="center">Cloud Engineer</h3>
 
